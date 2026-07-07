@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "purrcare",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "4330"],
+      "port": 4330
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# 쇼핑몰은 별도 배포(GitHub Pages)로 링크 — 저장소에 포함하지 않음
+mall/
